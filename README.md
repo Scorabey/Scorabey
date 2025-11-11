@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🧑‍💻 I learn FrontEnd
-I write anything — I want to become a Full Stack Senior developer
+My dream - FullStack develeper
 
 ## Here's my Steam account 👇
 🎮 [https://steamcommunity.com/profiles/76561199138517180/]
