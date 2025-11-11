@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🧑‍💻 Junior FrontEnd programmer
+## 🧑‍💻 I learn FrontEnd
 I write anything — I want to become a Full Stack Senior developer
 
 ## Here's my Steam account 👇
