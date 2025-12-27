@@ -4,7 +4,7 @@
 My dream - FullStack develeper
 
 ## Here's my Steam account 👇
-🎮 !Steam: [https://steamcommunity.com/profiles/76561199138517180/]
+🎮 Steam: [https://steamcommunity.com/profiles/76561199138517180/]
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@scorabey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satlovdanijl@gmail.com) 
