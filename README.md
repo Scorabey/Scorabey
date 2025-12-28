@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## 🧑‍💻 I learn FrontEnd
-My dream - FullStack develeper
 
 ## Here's my Steam account 👇
 🎮 Steam: [https://steamcommunity.com/profiles/76561199138517180/]
