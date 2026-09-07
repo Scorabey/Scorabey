@@ -1,11 +1,3 @@
-## Hi there 👋
-
-## 🧑‍💻 I learn FrontEnd
-
-## Here's my Steam account 👇
-🎮 Steam: [https://steamcommunity.com/profiles/76561199138517180/]
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/618446846536187925) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@www.tiktok.com/@scorabey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satlovdanijl@gmail.com) 
 
